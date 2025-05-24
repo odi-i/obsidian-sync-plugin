@@ -1,9 +1,9 @@
 {
 	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"name": "Obsidian sync",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Help you to save and share your file between devices",
 	"author": "Obsidian",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
